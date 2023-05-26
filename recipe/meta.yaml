@@ -14,7 +14,7 @@ package:
 source:
   # url: https://github.com/mackyle/xar/archive/xar-{{ version }}.tar.gz
   url: https://opensource.apple.com/tarballs/xar/xar-{{ subversion }}.tar.gz
-  sha256: c632b996b2b12fc0f90a2704701788029141ca40552cf5b8b38c23ae72de15ca
+  sha256: abfa47d6ce20b5f041bb51a9bbc19ffb50270c8f0e9b3f7dbdaafb482ede8ece
   patches:
     # WARNING: order matters!!!
     # mashup of patches and scripts from:
